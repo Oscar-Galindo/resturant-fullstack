@@ -14,8 +14,8 @@
             Lorem ipsum dolor amet squid shabby chic cray, beard hell of poutine microdosing messenger bag. Health goth actually artisan bicycle rights franzen, marfa austin sustainable ennui live-edge man braid beard deep v raclette. Polaroid asymmetrical 3 wolf moon knausgaard, pabst poke single-origin coffee pug edison bulb venmo kogi wolf vinyl tbh. Neutra fanny pack glossier man braid fam narwhal whatever mixtape skateboard. Next level food truck activated charcoal snackwave schlitz before they sold out. Venmo raclette mixtape pork belly post-ironic palo santo taxidermy, skateboard kitsch gentrify ennui. Freegan roof party normcore brooklyn twee hammock fanny pack tofu.
          </p>
          
-         <p
-         >Lorem ipsum dolor amet squid shabby chic cray, beard hell of poutine microdosing messenger bag. Health goth actually artisan bicycle rights franzen, marfa austin sustainable ennui live-edge man braid beard deep v raclette. Polaroid asymmetrical 3 wolf moon knausgaard, pabst poke single-origin coffee pug edison bulb venmo kogi wolf vinyl tbh. Neutra fanny pack glossier man braid fam narwhal whatever mixtape skateboard. Next level food truck activated charcoal snackwave schlitz before they sold out. Venmo raclette mixtape pork belly post-ironic palo santo taxidermy, skateboard kitsch gentrify ennui. Freegan roof party normcore brooklyn twee hammock fanny pack tofu.
+         <p>
+            rd, pabst poke single-origin coffee pug edison bulb venmo kogi wolf vinyl tbh. Neutra fanny pack glossier man braid fam narwhal whatever mixtape skateboard. Next level food truck activated charcoal snackwave schlitz before they sold out. Venmo raclette mixtape pork belly post-ironic palo santo taxidermy, skateboard kitsch gentrify ennui. Freegan roof party normcore brooklyn twee hammock fanny pack tofu.
          </p>
       </div>
     
